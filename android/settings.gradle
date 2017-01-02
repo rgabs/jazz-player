@@ -1,0 +1,3 @@
+rootProject.name = 'jazzMe'
+
+include ':app'
